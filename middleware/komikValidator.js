@@ -63,4 +63,4 @@ function validateParams(schema) {
     };
 }
 
-module.exports = {komikSchema, idSchema, validateBody, validateParamas};
+module.exports = {komikSchema, idSchema, validateBody, validateParams};
